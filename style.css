@@ -1,0 +1,37 @@
+.card {
+    background-image: url(3.png);
+    width: 1230px;
+    height: 693px;
+    flex-shrink: 0;
+}
+
+.text {
+    width: 567px;
+    height: 264px;
+    flex-shrink: 0;
+    margin: 0 auto;
+    padding-top: 170px;
+}
+
+p {
+    color: #3C5947;
+    font-family: Zilla Slab;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+
+h1 {
+    color: #3C5947;
+    margin: 0px;
+    font-family: Tangerine;
+    font-size: 125px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.img{
+    text-align: right;
+}
